@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<project ver="10" name="查找工具" libEmbed="true" icon="C:\Users\Y1551\Pictures\icon\复合icon.ico" ui="win" output="查找工具.exe" CompanyName="单位名称" FileDescription="LCD键盘字库查找工具" LegalCopyright="一体机" ProductName="查找工具" InternalName="查找工具" FileVersion="0.0.0.05" ProductVersion="1.0.0.02" publishDir="/dist/" dstrip="false">
-	<file name="main.aardio" path="main.aardio" comment="main.aardio"/>
-	<folder name="资源文件" path="res" embed="true" local="false" ignored="false"/>
-	<folder name="窗体文件" path="dlg" comment="目录" embed="true" local="false" ignored="false"/>
-</project>
